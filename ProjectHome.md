@@ -1,0 +1,3 @@
+As of 5/12/2013, this app is available only through the media art organization, Signal Culture, http://signalculture.org/apps.html
+
+“Voyage of the EmpreSS of RuSSia” is a generative and interactive application based on dazzle ships of WWI and WWII. The Empress of Russia was a ship that, for a time, was painted with dazzle camouflage. Ship references were often female gendered, and sometimes were named "Empress".
